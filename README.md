@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
-<h1>Utilizing Wireshark to Explore Network Traffic</h1>
+<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
 In this project, we utilize Wireshark to inspect network traffic in the form of various network protocols. <br />
 
 
